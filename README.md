@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanjay Sahu Bandla</h1>
 <h3 align="center">I'm passionate to work on both frontend and backend development and I have been working on web
-	development for the last 1 year.</h3>
+	development for the last 2 year.</h3>
 <br />
  🔭 I’m currently working on <strong>Laravel Projects</strong>
  <br />
- 📝 You can check my portfolio <a href="https://sanjay-sahu-bandla.github.io/">here</a>
+ 📝 You can check my portfolio <a href="https://sanjaybandla.web.app/">here</a>
 <br />
 
 <h3> Below are the technologies that I have been working on </h3>
