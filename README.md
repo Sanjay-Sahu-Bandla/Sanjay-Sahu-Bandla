@@ -1,7 +1,6 @@
 <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sanjay Bandla</h1>
 
 ### About Me 
-- 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>Software Engineer</strong> at [Hidden Brains Infotech](https://www.hiddenbrains.com/).
 - 🎒 I've worked on various projects ranging from social media platform, tutorial blog to ecommerce, ERP, EMS, vehicle tracking system.
 - 🧭 I love exploring and working both in frontend and backend development.
